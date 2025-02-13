@@ -1,8 +1,8 @@
 # Hi 👋, I'm DHURGATHARAN R
 
 ### A passionate Full Stack Developer  
-[
-![Web Development Banner](https://www.digitalsolutionservices.com/img/services/web%20development.gif)  ]
+
+![Web Development Banner](https://t4.ftcdn.net/jpg/02/46/62/87/360_F_246628725_HO5rjCq9v1ETJ7xty0IZ8J95nuRIOltW.jpg)
 - 🚀 I'm currently working on **AR Based Project**  
 - 📂 All of my projects are available at [My Portfolio](https://github.com/Dhurgatharan))  
 - 📧 How to reach me: [dhurgatharan16@gmail.com](mailto:dhurgatharan16@gmail.com)  
