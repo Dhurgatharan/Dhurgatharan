@@ -2,8 +2,7 @@
 
 ### A passionate Full Stack Developer  
 [
-![Web Development Banner](https://files.oaiusercontent.com/file-2VUg5HyPp5GJwuvHu2BqZ5?se=2025-02-13T03%3A59%3A33Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Df4177463-88f0-4aa3-abe7-34dbd8c93254.webp&sig=drrBc%2BXGbOvORIhCv7gwdpXzPgP3HuN1QCwQS5Bw5i4%3D)
-
+![Web Development Banner](https://www.digitalsolutionservices.com/img/services/web%20development.gif)  ]
 - 🚀 I'm currently working on **AR Based Project**  
 - 📂 All of my projects are available at [My Portfolio](https://github.com/Dhurgatharan))  
 - 📧 How to reach me: [dhurgatharan16@gmail.com](mailto:dhurgatharan16@gmail.com)  
