@@ -4,7 +4,7 @@
 
 ![Web Development Banner](https://t4.ftcdn.net/jpg/02/46/62/87/360_F_246628725_HO5rjCq9v1ETJ7xty0IZ8J95nuRIOltW.jpg)
 - 🚀 I'm currently working on **Web Based Project**  
-- 📂 All of my projects are available at [My Portfolio](https://github.com/Dhurgatharan))  
+- 📂 All of my projects are available at [My Portfolio](https://dhurgatharanravi.my.canva.site/))] 
 - 📧 How to reach me: [dhurgatharan16@gmail.com](mailto:dhurgatharan16@gmail.com)  
 
 ---
