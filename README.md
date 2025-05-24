@@ -1,6 +1,6 @@
 # Hi 👋, I'm DHURGATHARAN R
 
-### A Passionate Full Stack Developer  
+### A Passionate FRONT END Developer  
 
 ![Web Development Banner](https://t4.ftcdn.net/jpg/02/46/62/87/360_F_246628725_HO5rjCq9v1ETJ7xty0IZ8J95nuRIOltW.jpg)
 - 🚀 I'm currently working on **Web Based Project**  
