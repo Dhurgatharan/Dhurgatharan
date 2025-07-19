@@ -2,7 +2,7 @@
 
 ### A Passionate FRONT END Developer  
 
-![Web Development Banner](https://t4.ftcdn.net/jpg/02/46/62/87/360_F_246628725_HO5rjCq9v1ETJ7xty0IZ8J95nuRIOltW.jpg)
+![Web Development Banner]([https://t4.ftcdn.net/jpg/02/46/62/87/360_F_246628725_HO5rjCq9v1ETJ7xty0IZ8J95nuRIOltW.jpg)](https://www.google.com/imgres?q=flat%20information%20technology%20background&imgurl=https%3A%2F%2Fplus.unsplash.com%2Fpremium_photo-1661877737564-3dfd7282efcb%3Ffm%3Djpg%26q%3D60%26w%3D3000%26ixlib%3Drb-4.1.0%26ixid%3DM3wxMjA3fDB8MHxzZWFyY2h8MXx8aW5mb3JtYXRpb24lMjB0ZWNobm9sb2d5fGVufDB8fDB8fHww&imgrefurl=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Finformation-technology&docid=E3td4_eOokcaUM&tbnid=nizXE1Ve30fCJM&vet=12ahUKEwir-ZbY_seOAxUc1jgGHbSzHoYQM3oECDcQAA..i&w=3000&h=1934&hcb=2&ved=2ahUKEwir-ZbY_seOAxUc1jgGHbSzHoYQM3oECDcQAA)
 - 🚀 I'm currently working on **Web Based Project**  
 - 📂 All of my projects are available at [My Portfolio](https://dhurgatharanravi.my.canva.site/))] 
 - 📧 How to reach me: [dhurgatharan16@gmail.com](mailto:dhurgatharan16@gmail.com)  
