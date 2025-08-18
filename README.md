@@ -5,6 +5,7 @@
 ### A Passionate FRONT END Developer  
 
 ![Web Development Banner](https://t4.ftcdn.net/jpg/02/46/62/87/360_F_246628725_HO5rjCq9v1ETJ7xty0IZ8J95nuRIOltW.jpg)
+
 - 🚀 I'm currently working on **Web Based Project**
 
 🖥️ Skilled in C, Java, HTML, CSS, UI/UX Design.
@@ -34,9 +35,7 @@ Role: Frontend Developer | Team size: 4 | Duration: 1 Year
 🏭 Introduction to Industry 4.0 – NPTEL
 
 🎨 UI/UX Design – NoviTech 
-
-- 📂 All of my projects are available at [My Portfolio](https://dhurgatharanravi.my.canva.site/))] 
-- 📧 How to reach me: [dhurgatharan16@gmail.com](mailto:dhurgatharan16@gmail.com)  
+ 
 
 ---
 
