@@ -5,7 +5,36 @@
 ### A Passionate FRONT END Developer  
 
 ![Web Development Banner](https://t4.ftcdn.net/jpg/02/46/62/87/360_F_246628725_HO5rjCq9v1ETJ7xty0IZ8J95nuRIOltW.jpg)
-- 🚀 I'm currently working on **Web Based Project**  
+- 🚀 I'm currently working on **Web Based Project**
+
+🖥️ Skilled in C, Java, HTML, CSS, UI/UX Design.
+
+📧 Reach me at: dhurgatharan16@gmail.com
+
+🌍 Based in Tamil Nadu, India.
+
+🏆 Projects
+Smart Education for Rural Areas
+Role: Frontend Developer | Team size: 4 | Duration: 1 Year
+➡️ Created an online learning platform that leverages tech and innovative teaching methods to bridge the educational gap.
+
+Attendance Notification System
+Role: Frontend Developer | Team size: 4 | Duration: 1 Year
+➡️ Developed a system to automate attendance tracking and send real-time SMS/email notifications to students and faculty.
+
+📜 Certifications
+☁️ Microsoft Azure Global Certification
+
+📊 Introduction to Data Science – Cisco
+
+💻 JavaScript Essentials 1 – Cisco
+
+☕ Programming in Java – NPTEL
+
+🏭 Introduction to Industry 4.0 – NPTEL
+
+🎨 UI/UX Design – NoviTech 
+
 - 📂 All of my projects are available at [My Portfolio](https://dhurgatharanravi.my.canva.site/))] 
 - 📧 How to reach me: [dhurgatharan16@gmail.com](mailto:dhurgatharan16@gmail.com)  
 
