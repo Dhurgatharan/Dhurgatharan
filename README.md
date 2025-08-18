@@ -8,33 +8,33 @@
 
 - 🚀 I'm currently working on **Web Based Project**
 
-🖥️ Skilled in C, Java, HTML, CSS, UI/UX Design.
+- 🖥️ Skilled in C, Java, HTML, CSS, UI/UX Design.
 
-📧 Reach me at: dhurgatharan16@gmail.com
+- 📧 Reach me at: dhurgatharan16@gmail.com
 
-🌍 Based in Tamil Nadu, India.
+- 🌍 Based in Tamil Nadu, India.
 
-🏆 Projects
-Smart Education for Rural Areas
-Role: Frontend Developer | Team size: 4 | Duration: 1 Year
-➡️ Created an online learning platform that leverages tech and innovative teaching methods to bridge the educational gap.
+-- 🏆 Projects
+- Smart Education for Rural Areas
+- Role: Frontend Developer | Team size: 4 | Duration: 1 Year
+- ➡️ Created an online learning platform that leverages tech and innovative teaching methods to bridge the educational gap.
 
-Attendance Notification System
-Role: Frontend Developer | Team size: 4 | Duration: 1 Year
-➡️ Developed a system to automate attendance tracking and send real-time SMS/email notifications to students and faculty.
+- Attendance Notification System
+- Role: Frontend Developer | Team size: 4 | Duration: 1 Year
+- ➡️ Developed a system to automate attendance tracking and send real-time SMS/email notifications to students and faculty.
 
-📜 Certifications
-☁️ Microsoft Azure Global Certification
+- 📜 Certifications
+- ☁️ Microsoft Azure Global Certification
 
-📊 Introduction to Data Science – Cisco
+- 📊 Introduction to Data Science – Cisco
 
-💻 JavaScript Essentials 1 – Cisco
+- 💻 JavaScript Essentials 1 – Cisco
 
-☕ Programming in Java – NPTEL
+- ☕ Programming in Java – NPTEL
 
-🏭 Introduction to Industry 4.0 – NPTEL
+- 🏭 Introduction to Industry 4.0 – NPTEL
 
-🎨 UI/UX Design – NoviTech 
+- 🎨 UI/UX Design – NoviTech 
  
 
 ---
