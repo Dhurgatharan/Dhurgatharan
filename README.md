@@ -14,7 +14,7 @@
 
 - 🌍 Based in Tamil Nadu, India.
 
--- 🏆 Projects
+-->> 🏆 Projects
 - Smart Education for Rural Areas
 - Role: Frontend Developer | Team size: 4 | Duration: 1 Year
 - ➡️ Created an online learning platform that leverages tech and innovative teaching methods to bridge the educational gap.
@@ -23,7 +23,7 @@
 - Role: Frontend Developer | Team size: 4 | Duration: 1 Year
 - ➡️ Developed a system to automate attendance tracking and send real-time SMS/email notifications to students and faculty.
 
-- 📜 Certifications
+-->>📜 Certifications
 - ☁️ Microsoft Azure Global Certification
 
 - 📊 Introduction to Data Science – Cisco
